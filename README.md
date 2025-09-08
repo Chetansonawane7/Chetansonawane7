@@ -1,62 +1,75 @@
-# 👋 Hi, I'm Chetan Sonawane!
+<h1 align="center">👋 Hi, I'm Chetan Sonawane</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Recent+Computer+Science+Graduate;Aspiring+AI+and+Data+Scientist;Passionate+about+Solving+Real-World+Problems" />
+</p>
 
-🎓 **Recent Computer Science Graduate**  
-I'm a passionate engineer who just completed my Bachelors of Engineering in Computer Science. Currently, I'm seeking opportunities in Artificial Intelligence, Machine Learning, Data Analysis, and Data Science roles as a fresher.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chetansonawane7/chetansonawane7/main/1737283769244.jpg" alt="Cover Image" width="100%">
+</p>
 
----
 
-## 🚀 What Excites Me
 
-- **Generative AI Model Development**  
-  I thrive on building cutting-edge AI solutions using GANs, LLMs, Langchain, and the latest in the AI tech stack.
-- **End-to-End Problem Solving**  
-  From data wrangling to deploying intelligent agents, I love projects that challenge me to learn and innovate.
-
----
-
-## 💡 Featured Projects
-
-- [ADA Autonomous CSV Insight Generator](https://github.com/Chetansonawane7/ADA-Autonomous-CSV-Insight-Generator)  
-  _A smart assistant for extracting insights from CSVs autonomously._
-- [Reddit User Persona Generator](https://github.com/Chetansonawane7/Reddit-User-Persona-Generator)  
-  _Generates realistic user personas from Reddit data using AI._
-- [IntelGenie - Multi-Agent Research Assistant](https://github.com/Chetansonawane7/-IntelGenie---Multi-Agent-Research-Assistant)  
-  _Empowering research with collaborative multi-agent intelligence._
-- [Payment Gateway Simulation](https://github.com/Chetansonawane7/payment-gateway-simulation)  
-  _Simulates secure payment gateway flows for learning and experimentation._
-- [Change Detection Algorithm](https://github.com/Chetansonawane7/Change-Detection-Algorithm)  
-  _Detects changes in datasets with AI-powered accuracy._
+### 🚀 About Me
+🎓 Recent Computer Science Graduate  
+I'm a passionate engineer who just completed my Bachelor's in Computer Science.  
+Currently seeking opportunities in Artificial Intelligence, Machine Learning, Data Analysis, and Data Science as a fresher.
 
 ---
 
-## 🛠️ Skills & Tech Stack
+### 💡 Featured Projects
 
-- Python • Generative AI (GANs, LLMs) • Langchain  
-- Machine Learning • Data Science • Autonomous Agents  
-- Data Analysis • Algorithm Development
+- **ADA Autonomous CSV Insight Generator**  
+  Smart assistant for extracting actionable insights from CSV files autonomously.
 
----
+- **Reddit User Persona Generator**  
+  Generates realistic user personas from Reddit data using advanced AI.
 
-## 🌱 Currently
+- **IntelGenie - Multi-Agent Research Assistant**  
+  Collaborative multi-agent system to empower research workflows.
 
-- Exploring new generative AI architectures
-- Prototyping intelligent agents and automation workflows
-- Open to exciting job opportunities in AI/ML, Data Analysis, and Data Science!
+- **Payment Gateway Simulation**  
+  Simulates secure payment gateway flows for learning and experimentation.
 
----
-
-## 🌍 About Me
-
-- 🧳 Love traveling and driving
-- 🎤 Passionate singer
-- 💬 Always eager to learn and connect!
+- **Change Detection Algorithm**  
+  Detects dataset changes with AI-powered accuracy.
 
 ---
 
-## 📫 Let's Connect
+### 🛠️ Skills & Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chetan-sonawane-449a1a242)
+#### Programming
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+
+#### AI & Machine Learning
+![Generative AI](https://img.shields.io/badge/Generative_AI-FC636B?style=flat)
+![Langchain](https://img.shields.io/badge/Langchain-FF5722?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FDA65D?style=flat)
+
+#### Data Science & Analysis
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-03A9F4?style=flat)
+![Algorithm Development](https://img.shields.io/badge/Algorithm_Development-FFC107?style=flat)
 
 ---
 
-> _“Driven by curiosity, creativity, and the magic of AI.”_
+### 🌱 Currently Learning
+- New generative AI architectures  
+- Prototyping intelligent agents and automation workflows  
+- Exploring advanced data science techniques
+
+---
+
+### 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetan-sonawane-449a1a242)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetansonawane7)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  <!-- Optional -->
+
+
+---
+
+### 🎵 Fun Facts
+🧳 Love traveling and driving  
+🎤 Passionate singer  
+💬 Always curious and ready to explore!
+
